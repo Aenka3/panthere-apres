@@ -1036,10 +1036,28 @@ h4 {
     }
 }
 
+/* CORRECTION */
+
+h2 {
+    font-size: 25px;
+}
+
+.col-sm-4 h3 {
+    font-size: 18px;
+}
+
+.col-sm-4 p {
+    font-size: 17px;
+}
+
 #citation {
-    font-size: 20px;
+    font-size: 22px;
 }
 
 #citation span {
     opacity: 0.9;
+}
+
+footer p {
+    font-size: 15px;
 }
