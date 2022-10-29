@@ -1040,3 +1040,11 @@ h4 {
         text-align: center;
     }
 }
+
+#citation {
+    font-size: 20px;
+}
+
+#citation span {
+    opacity: 0.9;
+}
